@@ -1,0 +1,74 @@
+@charset "utf-8";
+body,html{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-color: #333333;
+    font-family: "微软雅黑", "宋体";
+}
+.main{
+    margin: 0 auto;
+    max-width: 10rem;
+    background-color: #101d51;
+}
+.main .content-01{
+    height: 8.36rem;
+    background: url("../../images/page-01/img-01.jpg") top center no-repeat;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+.main .content-02{
+    height: 21rem;
+}
+.main .content-02 .content-02-01{
+    height: 8.64rem;
+    background: url("../../images/page-01/img-02.jpg") top center no-repeat;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+.main .content-02 .content-02-02{
+    height: 7.45rem;
+    background: url("../../images/page-01/img-03.jpg") top center no-repeat;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+.main .content-02 .content-02-03{
+    height: 4.93rem;
+    background: url("../../images/page-01/img-04.jpg") top center no-repeat;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+.main .content-03{
+    height: 10.72rem;
+    background: url("../../images/page-01/img-05.jpg") top center no-repeat;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+.main .content-04{
+    height: 11.16rem;
+    background: url("../../images/page-01/img-06.jpg") top center no-repeat;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+.main .content-05{
+    height: 2.65rem;
+    background-color: #101d51;
+}
+.main .content-05 button{
+    width: 10rem;
+    height: 1.4rem;
+    background: url("../../images/page-01/btn-01.png") top center no-repeat;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+
+    margin-top: 0.5rem;
+    outline: none;
+    border:0;
+    color: #bff9ff;
+    font-size: 0.5rem;
+    font-weight: 600;
+    line-height: 1.4rem;
+    letter-spacing: 0.15rem;
+}
